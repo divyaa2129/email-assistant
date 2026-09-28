@@ -1,6 +1,8 @@
 # 📧 AI Email Assistant
  
 A Streamlit web app that uses Google's Gemini API to help write and manage emails.
+
+**🔗 Live demo:** https://divya-email-assistant.streamlit.app/
  
 ## Features
  
